@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Ramza 👋
 
 
-<!-- **amFathimaRamza/amFathimaRamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫 About Me:
 🔭 I’m currently working on CareFello Project<br>🤝 I’m looking for help with flutter<br>🌱 I’m currently learning React Js<br>⚡ Fun fact : I love eating chocolates when I'm happy
