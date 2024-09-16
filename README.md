@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on CareFello Project<br>🌱 I’m currently learning React Js<br>⚡ Fun fact : I love eating chocolates when I'm happy
-##🤝 I’m looking for help with flutter<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FathimaRamza) 
